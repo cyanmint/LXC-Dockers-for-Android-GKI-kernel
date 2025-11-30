@@ -3,7 +3,6 @@ name: Build Android Kernels
 permissions:
   contents: read
   actions: write
-  artifacts: write
 
 on:
   workflow_dispatch:
